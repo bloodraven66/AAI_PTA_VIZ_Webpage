@@ -16,7 +16,7 @@ Front end:
 Backend:
 
 - Install docker with 'snap install docker'
-- Backend files are shared <a href='https://zenodo.org/deposit/5849094'>here</a>. You can either
+- Backend files are shared <a href='https://zenodo.org/record/5849663#.YeGigXVBwV0'>here</a>. You can either
    1. download the saved docker image (5.2gb) with 'webpage_docker_backup.tar' or
    2. download the files (535mb) at 'aai_pta_viz.zip'
 - After 1, run 'sudo docker load -i webpage_docker_backup.tar'
